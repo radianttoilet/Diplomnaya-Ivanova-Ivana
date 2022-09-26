@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;;
+    
+}
+
+.nav_link_home {
+    padding-left: 423px;
+    text-decoration: none;
+    width: 43px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav_link {
+    width: 43px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.header {
+    background: #116CFF;
+}
+
+.welcome_title{
+
+}
+
+.welcome_subtitle {
+
+}
+
+.btn1 {
+    background-color: #fff;
+    color: #116CFF;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 52px;
+    font-family: 'Inter';
+    font-weight: 700;
+}
+
+.link_btn {
+    width: 200px;
+    height: 52px;
+    background: transparent;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid #FFFFFF;
+}
+
+.logo {
+
+}
+
+.nav_list {
+    display: flex;
+    column-gap: 42px;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+}
+
+.imaga1 {
+    width: 632px;
+    height: 386.5px;
+    display: flex;
+}
+
+.nav_link_login {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 30px;
+    gap: 10px;
+    width: 104px;
+    height: 39px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.nav_link_login a {
+    width: 44px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #116CFF;
+}
+
